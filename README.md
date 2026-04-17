@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spitedev312&label=Profile%20views&color=0e75b6&style=flat" alt="spitedev312" /> </p>
 
+<h3 align="left">Connect with me at discord : @sixlittleeggs23</h3>
 <p align="left">
 </p>
 
